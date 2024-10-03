@@ -1,0 +1,25 @@
+{
+  "tickets": [
+    {
+      "id": "1",
+      "title": "Outfit Opinions ",
+      "body": "Fashion is about uniqueness and not adhering to what is considering the 'latest' or 'trendy'. Fashion is important in society because it has the potential to bring different people together to celebrate their own individuality",
+      "priority": "high",
+      "user_email": "huzaifa@gamil.com"
+    },
+    {
+      "id": "2",
+      "title": "chic Choices",
+      "body": "For many, fashion is a form of self-care because it allows them to take time to focus on how they look and feel. Whether they're taking the time to pick the perfect outfit for a special occasion or just experimenting with different looks, fashion can be a form of self-care that helps them put their best foot forward",
+      "priority": "medium",
+      "user_email": "huzaifa@gamil.com"
+    },
+    {
+      "id": "3",
+      "title": "Trendy Threads",
+      "body": "There are four basic elements that make an outfit interesting; Color, pattern, shine, and texture. Because these elements will add dimension, your look will be anything but boring.",
+      "priority": "high",
+      "user_email": "huzaifa@gamil.com"
+    }
+  ]
+}
